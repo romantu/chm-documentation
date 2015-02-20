@@ -13,7 +13,7 @@ To simple download one file, click to appropriate link:
 PostgreSQL 9.4.1
 https://github.com/romantu/chm-documentation/blob/master/PostgreSQL/PostgreSQL 9.4.1.chm?raw=true
 
-Django-1.7.4.chm
+Django-1.7.4
 https://github.com/romantu/chm-documentation/blob/master/Django/Django-1.7.4.chm?raw=true
 
 Flask-0.10.1
