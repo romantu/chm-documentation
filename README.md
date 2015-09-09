@@ -20,8 +20,8 @@ CHM-documentation for the following topics:
 - [psycopg2-2.6.chm]
 (https://github.com/romantu/chm-documentation/blob/master/PostgreSQL/psycopg2-2.6.chm?raw=true)
 
-- [SQLAlchemy-0.9.8.chm]
-(https://github.com/romantu/chm-documentation/blob/master/SQLAlchemy/SQLAlchemy-0.9.8.chm?raw=true)
+- [SQLAlchemy-1.0.8.chm]
+(https://github.com/romantu/chm-documentation/blob/master/SQLAlchemy/SQLAlchemy-1.0.8.chm?raw=true)
 
 - [Django-1.7.4.chm]
 (https://github.com/romantu/chm-documentation/blob/master/Django/Django-1.7.4.chm?raw=true)
