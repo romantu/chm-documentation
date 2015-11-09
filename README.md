@@ -1,6 +1,6 @@
-# chm-documentation
+# chm documentation help
 
-CHM-documentation for the following topics:
+CHM documentation on the following topics:
 
 - PostgreSQL 9.4.5, 9.3.10, 9.2.14, 9.1.19, 9.0.23 (pgadmin3, psycopg2)
 - SQLAlchemy
