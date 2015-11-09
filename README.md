@@ -2,17 +2,24 @@
 
 CHM-documentation for the following topics:
 
-- PostgreSQL 9.4.5 (pgadmin3, psycopg2)
+- PostgreSQL 9.4.5, 9.3.10, 9.2.14, 9.1.19, 9.0.23 (pgadmin3, psycopg2)
 - SQLAlchemy
 - Django
 - Flask
 - jinja2
 - webpy
-- ... (your request here)
 
 #### Downloads:
 - [PostgreSQL 9.4.5.chm]
 (https://github.com/romantu/chm-documentation/blob/master/PostgreSQL/PostgreSQL 9.4.5.chm?raw=true)
+- [PostgreSQL 9.3.10.chm]
+(https://github.com/romantu/chm-documentation/blob/master/PostgreSQL/PostgreSQL 9.3.10.chm?raw=true)
+- [PostgreSQL 9.2.14.chm]
+(https://github.com/romantu/chm-documentation/blob/master/PostgreSQL/PostgreSQL 9.2.14.chm?raw=true)
+- [PostgreSQL 9.1.19.chm]
+(https://github.com/romantu/chm-documentation/blob/master/PostgreSQL/PostgreSQL 9.1.19.chm?raw=true)
+- [PostgreSQL 9.0.23.chm]
+(https://github.com/romantu/chm-documentation/blob/master/PostgreSQL/PostgreSQL 9.0.23.chm?raw=true)
 
 - [pgadmin3 1.20.0.chm]
 (https://github.com/romantu/chm-documentation/blob/master/PostgreSQL/pgadmin3 1.20.0.chm?raw=true)
@@ -34,6 +41,12 @@ CHM-documentation for the following topics:
 
 - [webpy-0.37.chm]
 (https://github.com/romantu/chm-documentation/blob/master/webpy/webpy-0.37.chm?raw=true)
+
+#### Old PostgreSQL chm versions:
+- [PostgreSQL 9.4.4.chm](https://github.com/romantu/chm-documentation/blob/master/PostgreSQL/PostgreSQL 9.4.4.chm?raw=true)
+- [PostgreSQL 9.4.3.chm](https://github.com/romantu/chm-documentation/blob/master/PostgreSQL/PostgreSQL 9.4.3.chm?raw=true)
+- [PostgreSQL 9.4.2.chm](https://github.com/romantu/chm-documentation/blob/master/PostgreSQL/PostgreSQL 9.4.2.chm?raw=true)
+- [PostgreSQL 9.4.1.chm](https://github.com/romantu/chm-documentation/blob/master/PostgreSQL/PostgreSQL 9.4.1.chm?raw=true)
 
 #### Notes:
 *all chm docs have [Contents, Index, Search, Favorites] tabs
