@@ -2,7 +2,7 @@
 
 CHM documentation on the following topics:
 
-- PostgreSQL 9.4.5, 9.3.10, 9.2.14, 9.1.19, 9.0.23 (pgadmin3, psycopg2)
+- PostgreSQL 9.5.0, 9.4.5, 9.3.10, 9.2.14, 9.1.19, 9.0.23 (pgadmin3, psycopg2)
 - SQLAlchemy
 - Django
 - Flask
@@ -10,6 +10,7 @@ CHM documentation on the following topics:
 - webpy
 
 #### Downloads:
+- [PostgreSQL 9.5.0.chm](https://github.com/romantu/chm-documentation/blob/master/PostgreSQL/PostgreSQL 9.5.0.chm?raw=true)
 - [PostgreSQL 9.4.5.chm](https://github.com/romantu/chm-documentation/blob/master/PostgreSQL/PostgreSQL 9.4.5.chm?raw=true)
 - [PostgreSQL 9.3.10.chm](https://github.com/romantu/chm-documentation/blob/master/PostgreSQL/PostgreSQL 9.3.10.chm?raw=true)
 - [PostgreSQL 9.2.14.chm](https://github.com/romantu/chm-documentation/blob/master/PostgreSQL/PostgreSQL 9.2.14.chm?raw=true)
